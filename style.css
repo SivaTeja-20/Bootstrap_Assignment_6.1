@@ -20,13 +20,11 @@
 	color: white !important;
 }
 
-.nav-item{
-	padding-left: 2px;
-}
+
 
 .navbar-brand{
 	color: white !important;
-	padding-left: 100px;
+	
 }
 
 #navbar button{
@@ -46,7 +44,6 @@
 #banner-row img{
 	max-width: 70%;
 	height: auto;
-	display: block;
 	padding-left: 30px;
 }
 
